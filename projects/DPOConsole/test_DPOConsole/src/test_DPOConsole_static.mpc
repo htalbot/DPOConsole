@@ -1,0 +1,5 @@
+project: test_DPOConsole_ex, test_DPOConsole_fit_static {
+
+    exename = test_DPOConsole_static
+
+}

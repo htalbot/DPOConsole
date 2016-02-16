@@ -1,0 +1,5 @@
+project: DPOConsole_dependencies {
+    includes += $(DPOCONSOLE_PRJ_ROOT)/include
+    libpaths += $(DPOCONSOLE_PRJ_ROOT)/lib
+    libs += DPOConsole
+}
